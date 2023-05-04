@@ -1,0 +1,3 @@
+﻿  BasicChallenges.cpp
+C:\Users\admin\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine-Projects\C++ Challenges\BasicChallenges\BasicChallenges\BasicChallenges.cpp(31,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  BasicChallenges.vcxproj -> C:\Users\admin\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine-Projects\C++ Challenges\BasicChallenges\Debug\BasicChallenges.exe
